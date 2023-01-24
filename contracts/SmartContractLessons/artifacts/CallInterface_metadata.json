@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "count",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_counter",
+						"type": "address"
+					}
+				],
+				"name": "examples",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SmartContractLessons/Interface.sol": "CallInterface"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SmartContractLessons/Interface.sol": {
+			"keccak256": "0x3351dfb6dc217f8c46e6fe3df7419e178573e8b0d44f12a724b5aff14e079f1e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f3861f289234b38b9ce7092f8e6c0a8911b2f66d4ff30014b46ff71d0aa6fa14",
+				"dweb:/ipfs/QmcfqLDJcifYyqELYH5x4KxZgHw9ZzPeiFwhPDvrw8Yvz7"
+			]
+		}
+	},
+	"version": 1
+}

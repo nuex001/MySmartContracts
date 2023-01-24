@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_goal",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_startAt",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint32",
+						"name": "_endAt",
+						"type": "uint32"
+					}
+				],
+				"name": "launch",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SmartContractLessons/CrowdFund.sol": "Crow"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SmartContractLessons/CrowdFund.sol": {
+			"keccak256": "0x95f4c3b6421c8b6c8eb7485c0e3b3a5bddd8d6f20137258402dc7fbfb90f4e93",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d2c75f65079afaeb8dde2f718efd52204a86c1c371504ae7fdfcd9dd93bca8e4",
+				"dweb:/ipfs/QmX3LEvc9sK2ezzLgVDkTAivTV4pbs6feNwKQMUBUh3jct"
+			]
+		}
+	},
+	"version": 1
+}

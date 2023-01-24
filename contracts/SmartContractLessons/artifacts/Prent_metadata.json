@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SmartContractLessons/Visibility.sol": "Prent"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SmartContractLessons/Visibility.sol": {
+			"keccak256": "0xf30342b9618566ab5fa70c11be3c0ef726401313ab7a92f8da0a41e00b3b960a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://421316d43b92461f2a5d0c29b20ddf9e2384a4ddad3bac78af40a7c0a0aa6c02",
+				"dweb:/ipfs/QmfDRUy388wJ7i29UwyFY9KciJXfPHwhsS5Db5gYwryJiN"
+			]
+		}
+	},
+	"version": 1
+}

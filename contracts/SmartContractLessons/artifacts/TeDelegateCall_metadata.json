@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SmartContractLessons/DelegateCall.sol": "TeDelegateCall"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SmartContractLessons/DelegateCall.sol": {
+			"keccak256": "0xa2025de516a942e53dc2115c70f11662e58ab7cfb4858de15c747d0a58779fee",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1cbe3f1fc8ce7541c32948e8430fbeaef022f8cffbd864784ea8d56424b3974c",
+				"dweb:/ipfs/QmPeB592KBRzXh1dXLmDucSdtGBUQzZ2MasGArWFRjsLPR"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SmartContractLessons/Sign.sol": "verifign"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SmartContractLessons/Sign.sol": {
+			"keccak256": "0x5a457904953f19524f581b12ffa991b3580abe4ef2f5066d8b58b79c17c2390f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3b320fde7e068103bcd54b1062223f27d145760605671187119ac8e01196f4d8",
+				"dweb:/ipfs/QmfYPLBSgJRZwPb35fcvH8QHpeckiwJjiJ9d7N2gNDX8po"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SmartContractLessons/Immutable.sol": "Immutable"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SmartContractLessons/Immutable.sol": {
+			"keccak256": "0x6e90f4d4b1d7d578b6a9e5a8bbec6bcd55230bef3c460a639a78616d8d2092af",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fc2bd25225225ed81797fb8281d534837257c242df20e28ddda64bbff2ccae3d",
+				"dweb:/ipfs/QmeKaZaoYPX1hZogFuC2VMexqdFVoZ7EvdLnZTFmnXv1HY"
+			]
+		}
+	},
+	"version": 1
+}
